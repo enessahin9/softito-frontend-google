@@ -252,18 +252,19 @@ footer a:hover {
 
 .leaf-icon {
     /* display: flex; */
-    position: absolute;
+    /* position: absolute; */
     width: 12.250px;
     height: 14px;
-    bottom: 18px;
-    /* align-items:self-end; */
-    /* margin-left: 6px; */
+    left: 5px;
+    /* bottom: 18px; */
+    /* align-items:self-end;
+    margin-left: 6px; */
 }
 
 .sag {
     width: 408px;
     display: flex;
-    justify-content: end;
+    justify-content: end; /*sağ en sona yaslama*/
 }
 
 /* .circle {
